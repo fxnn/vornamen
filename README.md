@@ -13,3 +13,5 @@ Endungen signalisieren Dateiformat:
 * CSV: Getrennt durch `,`
 * DAT: Getrennt durch ` ` (Leerzeichen)
 
+Shell-Skripte nutzen das Tool [q](http://harelba.github.io/q/), das SQL-Statements auf CSV-Dateien ausführen kann.
+
